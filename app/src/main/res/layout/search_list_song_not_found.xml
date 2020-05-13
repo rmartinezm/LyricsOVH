@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lavBaseAnimation"
+        android:layout_width="@dimen/not_found_width"
+        android:layout_height="@dimen/not_found_height"
+        app:lottie_rawRes="@raw/lottie_not_found"
+        app:lottie_loop="true"
+        app:lottie_autoPlay="true"
+        app:lottie_speed="1.5"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/vertical_margin"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/not_found_song"
+        android:textSize="18sp"
+        android:textColor="@color/colorPrimaryText"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/vertical_margin"
+        android:layout_marginBottom="@dimen/vertical_margin"/>
+
+</LinearLayout>

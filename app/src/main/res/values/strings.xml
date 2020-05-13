@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LyricsOVH</string>
+    <string name="search_input_hint">Search song</string>
+    <string name="song_artist_and_title">%s - %s</string>
+    <string name="iv_album_cover_transition_name">ALBUM_COVER_TRANSITION</string>
+    <string name="search_list_place_holder">Type the song you want the lyrics</string>
+    <string name="not_found_song">Song not found</string>
+    <string name="not_available_lyrics">Not available lyrics for this song :(</string>
+    <string name="no_internet_connection_detected">You\'re offlinne</string>
+</resources>

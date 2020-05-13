@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="half_lateral_margin">8dp</dimen>
+    <dimen name="lateral_margin">16dp</dimen>
+    <dimen name="double_lateral_margin">32dp</dimen>
+    <dimen name="vertical_margin">28dp</dimen>
+    <dimen name="half_vertical_margin">14dp</dimen>
+    <dimen name="double_vertical_margin">56dp</dimen>
+    <dimen name="progress_bar_size">80dp</dimen>
+    <!-- IMAGE VIEW -->
+    <dimen name="adapter_song_cover_size">52dp</dimen>
+    <dimen name="activity_song_cover_size">120dp</dimen>
+    <dimen name="no_internet_connection_width">120dp</dimen>
+    <!-- LOTTIE VIEW -->
+    <dimen name="not_found_width">120dp</dimen>
+    <dimen name="not_found_height">140dp</dimen>
+</resources>

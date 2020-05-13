@@ -1,0 +1,18 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+
+    <style name="LottieLoader">
+        <item name="lottie_rawRes">@raw/lottie_loader</item>
+        <item name="lottie_loop">true</item>
+        <item name="lottie_autoPlay">true</item>
+    </style>
+
+</resources>
