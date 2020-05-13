@@ -37,6 +37,7 @@
             android:layout_height="wrap_content"
             tools:text="@tools:sample/lorem"
             android:layout_marginStart="@dimen/half_lateral_margin"
+            android:layout_marginEnd="@dimen/half_lateral_margin"
             app:layout_constraintStart_toEndOf="@id/ivAlbumCover"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
